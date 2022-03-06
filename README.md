@@ -1,9 +1,8 @@
 
 
-### Hi there 👋
+### SABA HOSSEIN
+![Sabahossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahossein&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabahossein&layout=compact&langs_count=8"/>
-![sabahossein's github stats](https://github-readme-stats.vercel.app/api?username=sabahossein&show_icons=true&hide_border=true)
-
 
 <!--
 **sabahossein/sabahossein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
